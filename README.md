@@ -77,8 +77,6 @@ func playSound(resourceName: String) {
 }
 ```
 
-## The App
-
 ![](Documentation/eggtimer-app-screen.png)
 
 
